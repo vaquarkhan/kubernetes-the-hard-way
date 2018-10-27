@@ -43,3 +43,8 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 ---------------------------
 
 - https://github.com/dennyzhang/cheatsheet-kubernetes-A4 
+- https://github.com/GoogleCloudPlatform/kubernetes-workshops
+- https://github.com/thesandlord/kubernetes-workshop
+- https://github.com/apprenda/hands-on-with-kubernetes-workshop
+- https://github.com/kelseyhightower/craft-kubernetes-workshop
+- https://github.com/datawire/kubernetes-workshop
