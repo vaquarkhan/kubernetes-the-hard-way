@@ -38,3 +38,8 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Deploying the DNS Cluster Add-on](docs/12-dns-addon.md)
 * [Smoke Test](docs/13-smoke-test.md)
 * [Cleaning Up](docs/14-cleanup.md)
+
+
+---------------------------
+
+- https://github.com/dennyzhang/cheatsheet-kubernetes-A4 
